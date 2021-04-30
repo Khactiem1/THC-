@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\Win1\Win1\bin\Debug\Win1.exe.config
+C:\Users\Admin\Desktop\Win1\Win1\bin\Debug\Win1.exe
+C:\Users\Admin\Desktop\Win1\Win1\bin\Debug\Win1.pdb
+C:\Users\Admin\Desktop\Win1\Win1\obj\Debug\Win1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Win1\Win1\obj\Debug\Win1.Form1.resources
+C:\Users\Admin\Desktop\Win1\Win1\obj\Debug\Win1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Win1\Win1\obj\Debug\Win1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Win1\Win1\obj\Debug\Win1.exe
+C:\Users\Admin\Desktop\Win1\Win1\obj\Debug\Win1.pdb
+C:\Users\Admin\Desktop\TH c#\Bai1\Win1\bin\Debug\Win1.exe.config
+C:\Users\Admin\Desktop\TH c#\Bai1\Win1\obj\Debug\Win1.exe
+C:\Users\Admin\Desktop\TH c#\Bai1\Win1\obj\Debug\Win1.pdb
+G:\TH c#\Bai1\Win1\bin\Debug\Win1.exe.config
+G:\TH c#\Bai1\Win1\obj\Debug\Win1.exe
+G:\TH c#\Bai1\Win1\obj\Debug\Win1.pdb
+G:\TH c#\Bai1\Win1\bin\Debug\Win1.exe
+G:\TH c#\Bai1\Win1\bin\Debug\Win1.pdb
+G:\TH c#\Bai1\Win1\obj\Debug\Win1.csprojResolveAssemblyReference.cache
+G:\TH c#\Bai1\Win1\obj\Debug\Win1.Form1.resources
+G:\TH c#\Bai1\Win1\obj\Debug\Win1.Properties.Resources.resources
+G:\TH c#\Bai1\Win1\obj\Debug\Win1.csproj.GenerateResource.Cache
